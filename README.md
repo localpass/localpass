@@ -1,4 +1,6 @@
-```
+
+```![LocalPass 2 © All Rights Reserved](https://user-images.githubusercontent.com/5947268/230969809-dc3e0518-c490-4922-b247-0a3bf0b465a6.png)
+
 //
 //  README.md
 //  LocalPass
